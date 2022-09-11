@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I work with:
+
+- [Firebase](https://firebase.google.com)
+- [<img src="https://frappeframework.com/files/frappeframework-logo2a3e81.png" height="20"/>](https://frappeframework.com)
+
 <!--
 **nikkothari22/nikkothari22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

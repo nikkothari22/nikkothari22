@@ -14,9 +14,9 @@ I work with:
 
 You can use the following extensions if you want to:
 
-- [firebase-logsnag-extension](https://github.com/nikkothari22/firebase-logsnag-extension): [LogSnag](https://logsnag.com) + [Firestore](https://firebase.google.com/products/firestore) to send events to LogSnag on a Firestore trigger.
-- [firebase-slack-extension](https://github.com/nikkothari22/firebase-slack-extension): [Slack](https://slack.com) + [Firestore](https://firebase.google.com/products/firestore) to send messages on a Slack channel via Firestore.
-- [firebase-twilio-verify-extension](https://github.com/nikkothari22/firebase-twilio-verify-extension): [Twilio Verify](https://www.twilio.com/verify) + [Firebase Cloud Functions](https://firebase.google.com/products/functions) extension to send and verify one-time codes via text/call/email.
+- [Firebase Logsnag Extension](https://github.com/nikkothari22/firebase-logsnag-extension): [LogSnag](https://logsnag.com) + [Firestore](https://firebase.google.com/products/firestore) to send events to LogSnag on a Firestore trigger.
+- [Firebase Slack Extension](https://github.com/nikkothari22/firebase-slack-extension): [Slack](https://slack.com) + [Firestore](https://firebase.google.com/products/firestore) to send messages on a Slack channel via Firestore.
+- [Firebase Twilio Verify Extension](https://github.com/nikkothari22/firebase-twilio-verify-extension): [Twilio Verify](https://www.twilio.com/verify) + [Firebase Cloud Functions](https://firebase.google.com/products/functions) extension to send and verify one-time codes via text/call/email.
 
 
 #### Frappe Framework

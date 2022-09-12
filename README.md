@@ -23,6 +23,7 @@ You can use the following extensions if you want to:
 
 - [frappe-js-sdk](https://github.com/nikkothari22/frappe-js-sdk): A Typescript/Javascript library to interact with your [Frappe](https://frappeframework.com) backend. Can be used on all Javascript frameworks.
 - [frappe-react-sdk](https://github.com/nikkothari22/frappe-react-sdk): React hooks to make it dead simple to interact with your [Frappe](https://frappeframework.com) backend. Supports advanced features like Search with debouncing and realtime listeners.
+- [frappe-types](https://github.com/nikkothari22/frappe-types): A Frappe app to automatically generate type definitions for DocTypes.
 
 I also contribute to Frappe framework occasionally - fixing minor bugs, building small features and updating documentation when I can.
 

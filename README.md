@@ -2,19 +2,12 @@
 
 I work with:
 
-- [Firebase](https://firebase.google.com)
 - [Frappe Framework](https://frappeframework.com)
 - [React](https://reactjs.org)
+- [Firebase](https://firebase.google.com)
 - [Ionic](https://ionicframework.com) and [Capacitor](https://capacitorjs.com)
 
 ### My Open Source Contributions:
-
-
-#### Firebase Extensions
-
-- [Firebase Logsnag Extension](https://github.com/nikkothari22/firebase-logsnag-extension): [LogSnag](https://logsnag.com) + [Firestore](https://firebase.google.com/products/firestore) to send events to LogSnag on a Firestore trigger.
-- [Firebase Slack Extension](https://github.com/nikkothari22/firebase-slack-extension): [Slack](https://slack.com) + [Firestore](https://firebase.google.com/products/firestore) to send messages on a Slack channel via Firestore.
-- [Firebase Twilio Verify Extension](https://github.com/nikkothari22/firebase-twilio-verify-extension): [Twilio Verify](https://www.twilio.com/verify) + [Firebase Cloud Functions](https://firebase.google.com/products/functions) extension to send and verify one-time codes via text/call/email.
 
 
 #### Frappe Framework
@@ -25,9 +18,16 @@ I work with:
 
 I also contribute to Frappe framework occasionally - fixing minor bugs, building small features and updating documentation when I can.
 
+
+#### Firebase Extensions
+
+- [Firebase Logsnag Extension](https://github.com/nikkothari22/firebase-logsnag-extension): [LogSnag](https://logsnag.com) + [Firestore](https://firebase.google.com/products/firestore) to send events to LogSnag on a Firestore trigger.
+- [Firebase Slack Extension](https://github.com/nikkothari22/firebase-slack-extension): [Slack](https://slack.com) + [Firestore](https://firebase.google.com/products/firestore) to send messages on a Slack channel via Firestore.
+- [Firebase Twilio Verify Extension](https://github.com/nikkothari22/firebase-twilio-verify-extension): [Twilio Verify](https://www.twilio.com/verify) + [Firebase Cloud Functions](https://firebase.google.com/products/functions) extension to send and verify one-time codes via text/call/email.
+
 <hr/>
 
-I current work at [My Asset Buddy](https://myassetbuddy.in/) as the CTO - we're building beautiful software to manage industrial assets. 
+I am the founder and CEO at The Commit Company - we build software for businesses using Frappe. We also work on our own products on the side.
 
 I was also the Head of Product (and co-founder) of a startup called [Opportune](https://opportune.co.in). I helped build the product - which was an iOS and Android app built using [Ionic](https://ionicframework.com), [Capacitor](https://capacitorjs.com), [React](https://reactjs.org) and [Firebase](https://firebase.google.com).
 
